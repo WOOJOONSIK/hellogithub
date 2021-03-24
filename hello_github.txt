@@ -1,0 +1,8 @@
+git hub를 처음 사용할때 
+
+git init으로 저장소를 설정 
+파일 작성 및 편집후 
+git add . 변경내역을 알려줘야 함  git add .
+git commit -m 로컬에 커밋시 "변경 내용 설명"
+git remote add origin 원격 주소
+git push -u origin master 완료 
